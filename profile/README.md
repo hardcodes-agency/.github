@@ -28,36 +28,8 @@ Combinamos **tecnologia de ponta** com **boas práticas de engenharia de softwar
   Infraestrutura moderna com **Docker, MinIO e Cloudflare Tunnels**.  
 
 - 🌐 **Aplicações Offline-first & Descentralizadas**  
-  Funcionalidade garantida mesmo sem conexão, com sincronização inteligente.  
-
----
-
-## 🚀 Stack Tecnológica  
-
-### Backend  
-- Laravel 12 (PHP 8+)  
-- Rust (microserviços e apps desktop)  
-- Node.js  
-
-### Frontend  
-- Vue 3 + Inertia.js + TypeScript + TailwindCSS + shadcn  
-- React & React Native  
-- PWA + IndexedDB  
-
-### Banco de Dados  
-- TiDB (distribuído)  
-- Dolt (versionamento de dados)  
-- DragonflyDB (cache/queue)  
-- MySQL/MariaDB  
-
-### DevOps & Cloud  
-- Docker  
-- MinIO  
-- Cloudflare Tunnels  
-- CI/CD  
-- WebAssembly (Wasmtime/Wasmer)  
-- Tauri & Electron  
-
+  Funcionalidade garantida mesmo sem conexão, com sincronização inteligente.
+  
 ---
 
 ## 🌟 Diferenciais  
